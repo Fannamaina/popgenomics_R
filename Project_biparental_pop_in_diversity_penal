@@ -1,4 +1,4 @@
-# This code was used to project the biparental population in the PCA results from diversity penal
+# This code was used to project the biparental population in the PCA results from diversity panel
 # In the dataset from 1 to 681 were lines from 3 RIL families
 # from 682 to end were diversity accessions
 vcf<-"snp_filtered.recode.vcf"
